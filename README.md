@@ -1,5 +1,6 @@
 # 2020-Web-ToyProject
 2020 하반기 Web(ReactJS+Spring boot) ToyProject
+4주간의 스터디 이후 간단하게 CRUD 기능을 하는 웹사이트 제작을 목표로 만들어보고자 함. 
 
 ## web1
 - [깃허브 링크](https://github.com/mori8/dsc-web-fullstack/tree/main/crud-practice)
